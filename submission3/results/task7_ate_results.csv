@@ -1,0 +1,5 @@
+Estimator,ATE
+NN 1-to-1 (Inverse Variance distance on FFS quartiles),-13.585832096197691
+NN 1-to-1 (Mahalanobis distance on FFS quartiles),-27.789305695744133
+IPW (propensity from FFS quartiles),-11.762843630846987
+Linear regression (quartiles + interactions),-11.762814410839615
